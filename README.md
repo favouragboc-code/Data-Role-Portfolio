@@ -1,2 +1,3 @@
 # Data Analyst_Scientist Portfolio
-This contains all my learnings, Research and projects completed
+
+This contains all of the Data projects I have completed
